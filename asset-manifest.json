@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yashvyawahare/bookkeeper/static/css/main.5084a3e9.css",
+    "main.js": "/yashvyawahare/bookkeeper/static/js/main.6c195693.js",
+    "static/js/453.6295e061.chunk.js": "/yashvyawahare/bookkeeper/static/js/453.6295e061.chunk.js",
+    "index.html": "/yashvyawahare/bookkeeper/index.html",
+    "main.5084a3e9.css.map": "/yashvyawahare/bookkeeper/static/css/main.5084a3e9.css.map",
+    "main.6c195693.js.map": "/yashvyawahare/bookkeeper/static/js/main.6c195693.js.map",
+    "453.6295e061.chunk.js.map": "/yashvyawahare/bookkeeper/static/js/453.6295e061.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5084a3e9.css",
+    "static/js/main.6c195693.js"
+  ]
+}
